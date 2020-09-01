@@ -1,0 +1,4 @@
+// utterances.json
+{
+    "origins": ["http://localhost:8080"]
+}
